@@ -1,2 +1,2 @@
 # jsprepcourse
-curso de javascript de henry
+Este proyecto es un proyecto de prueba.
